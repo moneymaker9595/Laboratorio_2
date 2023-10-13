@@ -1,7 +1,7 @@
 //#ifndef PRODUCTO_H
 //#define PRODUCTO_H
 #pragma once
-
+///fff
 #include <string>
 
 #include "Fecha.h"
