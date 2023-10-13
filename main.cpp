@@ -1,8 +1,11 @@
-#include<iostream>
-#include<cstring>
+#include <iostream>
+#include <cstring>
 #include <cstdlib>
 
 using namespace std;
+
+#include "puntos h/Fecha.h"
+#include "puntos h/Producto.h"
 
 int main (){
 
@@ -31,7 +34,7 @@ if(id=="admin"&&contrasena=="admin"){
 
         int opcion;
     cout<<endl;
-    cout<<"Bienvenido admin "<<endl;
+    cout<<"Bienvenido administrador "<<endl;
     cout<<endl;
     cout<<"Indique la accion a realizar: "<<endl;
     cout<<endl;
@@ -52,7 +55,7 @@ if(id=="admin"&&contrasena=="admin"){
 
 }
 else{
-    cout<<"Contraseña invalida "<<endl;
+    cout<<"Contrasenia invalida "<<endl;
 
  system("pause");
     return -1;

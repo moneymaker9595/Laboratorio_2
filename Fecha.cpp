@@ -1,7 +1,7 @@
-#include "Fecha.h"
+#include "puntos h/Fecha.h"
 
 using namespace std;
-#include "Fecha.h"
+
 //#include <stdlib.h>
 
 void Fecha::AgregarDia()

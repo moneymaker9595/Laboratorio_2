@@ -1,6 +1,6 @@
-#ifndef FECHA_H
-#define FECHA_H
-
+//#ifndef FECHA_H
+//#define FECHA_H
+#pragma once
 
 
 #include <iostream>
@@ -34,4 +34,4 @@ class Fecha{
         void mostrar();
 };
 
-#endif // FECHA_H
+//#endif // FECHA_H
